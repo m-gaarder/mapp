@@ -14,3 +14,7 @@ import pandas as pd
 #basic map
 #zoom and pan
 folium.Map()
+
+
+##map cords? test when actually have it running
+##map_object = folium.Map(location = [COORDS, HERE], zoom_start =4) 
